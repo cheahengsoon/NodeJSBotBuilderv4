@@ -1,2 +1,4 @@
 # NodeJSBotBuilderv4
-CosmoDB,QnAMaker,LUIS
+- CosmoDB
+- QnAMaker
+- LUIS
